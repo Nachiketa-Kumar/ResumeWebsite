@@ -1,0 +1,112 @@
+/*<style> This is the external css which dont uses the style tags</style> */
+        /*Tag Selectors*/
+        body
+         {
+            margin: 0;
+            /*text-align: center;*/
+
+           background-color: #FFBED8;
+
+         }
+
+         hr
+         {
+            border-style: none;
+            border-top-style: dotted;
+            border-color: #F0A500;
+            border-width: 7px;
+            width: 10%;
+         }
+         h2
+         {
+         color: #712B75;
+         }
+         h3
+         {
+         color: #006778;
+         }
+         img
+         {
+         background-color: #5EE6EB;
+         }
+
+         p
+         {
+         color: #4C0027;
+         }
+
+         /*Class Selectors --> below is the example: a dot is added to refer the class selector. and give class="classname" in img tag.
+                     .<class name given> {
+            background-color: green;
+            }
+            .bacon
+            {
+            background-color: red;
+            }
+          */
+
+
+          /****id selsectors****/
+          /*
+          #heading {
+          color: yellow;
+          }
+        and give id="<id name in heading start tag,refer 1st h2 tag in index.html>"
+        */
+
+
+        .top-container
+        {
+        background-color: #FFBDE6;
+        }
+
+         .middle-container
+        {
+        background-color: #DFDFDE;
+        }
+         .bottom-container
+        {
+        background-color: #6EDCD9;
+        }
+
+
+/*html {
+  height: 100%;
+  max-height: 600px;
+  width: 1000px;
+  background-color: hsla(200,40%,30%,.4);
+  background-image:
+    url('https://78.media.tumblr.com/cae86e76225a25b17332dfc9cf8b1121/tumblr_p7n8kqHMuD1uy4lhuo1_540.png'),
+    url('https://78.media.tumblr.com/66445d34fe560351d474af69ef3f2fb0/tumblr_p7n908E1Jb1uy4lhuo1_1280.png'),
+    url('https://78.media.tumblr.com/8cd0a12b7d9d5ba2c7d26f42c25de99f/tumblr_p7n8kqHMuD1uy4lhuo2_1280.png'),
+    url('https://78.media.tumblr.com/5ecb41b654f4e8878f59445b948ede50/tumblr_p7n8on19cV1uy4lhuo1_1280.png'),
+    url('https://78.media.tumblr.com/28bd9a2522fbf8981d680317ccbf4282/tumblr_p7n8kqHMuD1uy4lhuo3_1280.png');
+  background-repeat: repeat-x;
+  background-position:
+    0 20%,
+    0 100%,
+    0 50%,
+    0 100%,
+    0 0;
+  background-size:
+    2500px,
+    800px,
+    500px 200px,
+    1000px,
+    400px 260px;
+  animation: 50s para infinite linear;
+  }
+
+@keyframes para {
+  100% {
+    background-position:
+      -5000px 20%,
+      -800px 95%,
+      500px 50%,
+      1000px 100%,
+      400px 0;
+    }
+  }*/
+
+
+
